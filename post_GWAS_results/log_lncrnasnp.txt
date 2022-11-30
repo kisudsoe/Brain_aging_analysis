@@ -1,0 +1,12 @@
+
+** Run function: db_filter.r/lncrna_overlap... Ready
+Input GWAS SNPs N = 17510
+  Query db_gwas.db = [1] 1246    8
+  Summ =
+  lncRNA SNPs
+1    425  743
+
+  Write file: /data/5e-8_2/summary/snp_lncrnasnp_743.bed
+  Write file: /data/5e-8_2/lncrnasnp_743.tsv
+Job done: 2021-08-06 19:12:38 for 13 sec
+

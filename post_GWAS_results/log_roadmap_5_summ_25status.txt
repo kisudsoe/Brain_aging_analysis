@@ -1,0 +1,11 @@
+
+** Run pivot function in roadmap_summary.r **
+
+* 127 files are found: Read [..........] = [1] 2223770       4
+* Transform table -> done
+* File write: data/5e-8_2/summary_roadmap.tsv
+
+* Filter enhancers [.....] = [1] 17510     3
+* File write: data/5e-8_2/summary_roadmap_enh.tsv
+
+Job done: 2021-08-06 21:16:13 for 38.4 sec

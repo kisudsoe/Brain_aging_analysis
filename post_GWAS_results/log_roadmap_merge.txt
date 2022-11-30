@@ -1,0 +1,12 @@
+
+** Run function: db_filter.r/distance_filt_multi...
+Input file/folder N	= [1] 1
+Input file N	= [1] 1
+
+** Run function: db_filter.r/distance_filt... Ready
+  File roadmap_enh_merge.bed... nrow= 17512.. done
+  Annotations occupied by SNPs	= [1] 1738
+  SNPs in annotations		= [1] 4562
+  Write file: /data/5e-8_2/summary/snp_roadmap_enh_merge.bed_4562.bed
+Job done: 2021-08-06 19:54:22 for 0.4 sec
+
