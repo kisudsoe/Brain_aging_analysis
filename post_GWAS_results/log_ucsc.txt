@@ -1,0 +1,16 @@
+
+** Run function: db_filter.r/distance_filt_multi...
+Input file/folder N	= [1] 1
+Input file N	= [1] 1
+
+** Run function: db_filter.r/distance_filt... Ready
+  File ucsc_annot... nrow= 78303.. done
+  Annotations occupied by SNPs	= [1] 4377
+  SNPs in annotations		= [1] 13209
+
+  UCSC annotations: 3 tags
+    1 cds:	811.. Save at: /data/5e-8_2/summary/snp_ucsc_cds_201.bed
+    2 proximalPromoter:	4007.. Save at: /data/5e-8_2/summary/snp_ucsc_proximalPromoter_1879.bed
+    3 wholeGene:	68750.. Save at: /data/5e-8_2/summary/snp_ucsc_wholeGene_12827.bed
+Job done: 2021-08-06 19:12:21 for 2.5 sec
+

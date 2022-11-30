@@ -1,0 +1,128 @@
+f_names	groups	ANATOMY	EID	GROUP	EDACC_NAME	TYPE	AGE	SEX
+roadmap_080_enh.bed.tsv	ADRENAL	ADRENAL	E080	Other	Fetal_Adrenal_Gland	PrimaryTissue	13GW	Male
+roadmap_031_enh.bed.tsv	Blood_B-cell_CD19p	BLOOD	E031	HSC & B-cell	CD19_Primary_Cells_Cord_BI	PrimaryCell	Fetus (GW unknown)	Mixed
+roadmap_032_enh.bed.tsv	Blood_B-cell_CD19p	BLOOD	E032	HSC & B-cell	CD19_Primary_Cells_Peripheral_UW	PrimaryCell	"21Y, 37Y"	Male
+roadmap_035_enh.bed.tsv	Blood_HSC_CD34p	BLOOD	E035	HSC & B-cell	CD34_Primary_Cells	PrimaryCell	Fetus (GW unknown)	Unknown
+roadmap_036_enh.bed.tsv	Blood_HSC_CD34p	BLOOD	E036	HSC & B-cell	CD34_Cultured_Cells	PrimaryCell	Fetus (GW unknown)	Unknown
+roadmap_050_enh.bed.tsv	Blood_HSC_CD34p	BLOOD	E050	HSC & B-cell	Mobilized_CD34_Primary_Cells_Female	PrimaryCell	Fetus (GW unknown)	Mixed
+roadmap_051_enh.bed.tsv	Blood_HSC_CD34p	BLOOD	E051	HSC & B-cell	Mobilized_CD34_Primary_Cells_Male	PrimaryCell	42Y	Male
+roadmap_115_enh.bed.tsv	Blood_Leukemia_encode	BLOOD	E115	ENCODE2012	Dnd41_TCell_Leukemia	CellLine		Male
+roadmap_123_enh.bed.tsv	Blood_Leukemia_encode	BLOOD	E123	ENCODE2012	K562_Leukemia	PrimaryCulture		Female
+roadmap_116_enh.bed.tsv	Blood_Lymphoblastoid_encode	BLOOD	E116	ENCODE2012	GM12878_Lymphoblastoid	PrimaryCulture		Female
+roadmap_029_enh.bed.tsv	Blood_Monocytes_CD14	BLOOD	E029	HSC & B-cell	CD14_Primary_Cells	PrimaryCell	"21Y, 37Y"	Male
+roadmap_124_enh.bed.tsv	Blood_Monocytes_CD14_encode	BLOOD	E124	ENCODE2012	Monocytes-CD14+_RO01746	PrimaryCell		Female
+roadmap_062_enh.bed.tsv	Blood_Mononuclear_cell	BLOOD	E062	Blood & T-cell	Peripheral_Blood_Mononuclear_Primary_Cells	PrimaryCell	"28Y, 27Y"	Male
+roadmap_046_enh.bed.tsv	Blood_NK_cell_CD56	BLOOD	E046	HSC & B-cell	CD56_Primary_Cells	PrimaryCell	"21Y, 37Y"	Male
+roadmap_030_enh.bed.tsv	Blood_Neutrophils_CD15	BLOOD	E030	HSC & B-cell	CD15_Primary_Cells	PrimaryCell	Fetus (GW unknown)	Male
+roadmap_033_enh.bed.tsv	Blood_T-cell_CD3	BLOOD	E033	Blood & T-cell	CD3_Primary_Cells_Cord_BI	PrimaryCell	Fetus (GW unknown)	Unknown
+roadmap_034_enh.bed.tsv	Blood_T-cell_CD3	BLOOD	E034	Blood & T-cell	CD3_Primary_Cells_Peripheral_UW	PrimaryCell	"21Y, 37Y"	Male
+roadmap_047_enh.bed.tsv	Blood_T-cell_CD8	BLOOD	E047	Blood & T-cell	CD8_Naive_Primary_Cells	PrimaryCell	Unknown	Mixed
+roadmap_048_enh.bed.tsv	Blood_T-cell_CD8	BLOOD	E048	Blood & T-cell	CD8_Memory_Primary_Cells	PrimaryCell	Unknown	Unknown
+roadmap_037_enh.bed.tsv	Blood_Th_CD4	BLOOD	E037	Blood & T-cell	CD4_Memory_Primary_Cells	PrimaryCell	Unknown	Unknown
+roadmap_038_enh.bed.tsv	Blood_Th_CD4	BLOOD	E038	Blood & T-cell	CD4_Naive_Primary_Cells	PrimaryCell	Unknown	Mixed
+roadmap_043_enh.bed.tsv	Blood_Th_CD4p_CD25m	BLOOD	E043	Blood & T-cell	CD4+_CD25-_Th_Primary_Cells	PrimaryCell	Unknown	Unknown
+roadmap_040_enh.bed.tsv	Blood_Th_memory_CD4p_CD25m	BLOOD	E040	Blood & T-cell	CD4+_CD25-_CD45RO+_Memory_Primary_Cells	PrimaryCell	Unknown	Unknown
+roadmap_039_enh.bed.tsv	Blood_Th_naive_CD4p_CD25m	BLOOD	E039	Blood & T-cell	CD4+_CD25-_CD45RA+_Naive_Primary_Cells	PrimaryCell	Unknown	Unknown
+roadmap_041_enh.bed.tsv	Blood_Th_PMA-I_stim_CD4p_CD25m_IL17m	BLOOD	E041	Blood & T-cell	CD4+_CD25-_IL17-_PMA-Ionomycin_stimulated_MACS_purified_Th_Primary_Cells	PrimaryCell	Unknown	Unknown
+roadmap_042_enh.bed.tsv	Blood_Th17_PMA-I_stim_CD4p_CD25m_IL17p	BLOOD	E042	Blood & T-cell	CD4+_CD25-_IL17+_PMA-Ionomcyin_stimulated_Th17_Primary_Cells	PrimaryCell	Unknown	Unknown
+roadmap_045_enh.bed.tsv	Blood_Tmem_CD4p_CD25int_CD127p	BLOOD	E045	Blood & T-cell	CD4+_CD25int_CD127+_Tmem_Primary_Cells	PrimaryCell	Unknown	Unknown
+roadmap_044_enh.bed.tsv	Blood_Treg_CD4p_CD25p	BLOOD	E044	Blood & T-cell	CD4+_CD25+_CD127-_Treg_Primary_Cells	PrimaryCell	Unknown	Unknown
+roadmap_129_enh.bed.tsv	BONE_encode	BONE	E129	ENCODE2012	Osteoblasts	PrimaryCulture		Unknown
+roadmap_067_enh.bed.tsv	BRAIN	BRAIN	E067	Brain	Brain_Angular_Gyrus	PrimaryTissue	"75Y, 81Y"	Mixed
+roadmap_068_enh.bed.tsv	BRAIN	BRAIN	E068	Brain	Brain_Anterior_Caudate	PrimaryTissue	"75Y, 81Y"	Mixed
+roadmap_069_enh.bed.tsv	BRAIN	BRAIN	E069	Brain	Brain_Cingulate_Gyrus	PrimaryTissue	"75Y, 81Y"	Mixed
+roadmap_070_enh.bed.tsv	BRAIN	BRAIN	E070	Brain	Brain_Germinal_Matrix	PrimaryTissue	20GW	Male
+roadmap_071_enh.bed.tsv	BRAIN	BRAIN	E071	Brain	Brain_Hippocampus_Middle	PrimaryTissue	"81Y, 73Y"	Male
+roadmap_072_enh.bed.tsv	BRAIN	BRAIN	E072	Brain	Brain_Inferior_Temporal_Lobe	PrimaryTissue	"75Y, 81Y"	Mixed
+roadmap_073_enh.bed.tsv	BRAIN	BRAIN	E073	Brain	Brain_Mid_Frontal_Lobe	PrimaryTissue	"75Y, 81Y"	Mixed
+roadmap_074_enh.bed.tsv	BRAIN	BRAIN	E074	Brain	Brain_Substantia_Nigra	PrimaryTissue	"75Y, 81Y"	Mixed
+roadmap_081_enh.bed.tsv	BRAIN	BRAIN	E081	Brain	Fetal_Brain_Male	PrimaryTissue	"17GW, 17GW"	Male/Unknown
+roadmap_082_enh.bed.tsv	BRAIN	BRAIN	E082	Brain	Fetal_Brain_Female	PrimaryTissue	17GW. 17GW	Female
+roadmap_053_enh.bed.tsv	BRAIN	BRAIN	E053	Neurosph	Neurosphere_Cultured_Cells_Cortex_Derived	PrimaryCulture	17GW	Female
+roadmap_054_enh.bed.tsv	BRAIN	BRAIN	E054	Neurosph	Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived	PrimaryCulture	17GW	Female
+roadmap_125_enh.bed.tsv	BRAIN_encode	BRAIN	E125	ENCODE2012	NH-A_Astrocytes	PrimaryCulture		Unknown
+roadmap_027_enh.bed.tsv	BREAST	BREAST	E027	Epithelial	Breast_Myoepithelial_Cells	PrimaryCell	"36Y,33Y"	Female
+roadmap_028_enh.bed.tsv	BREAST	BREAST	E028	Epithelial	Breast_vHMEC	PrimaryCulture	18Y	Female
+roadmap_119_enh.bed.tsv	BREAST_encode	BREAST	E119	ENCODE2012	HMEC_Mammary_Epithelial	PrimaryCulture		Unknown
+roadmap_117_enh.bed.tsv	CERVIX_encode	CERVIX	E117	ENCODE2012	HeLa-S3_Cervical_Carcinoma	CellLine		Female
+roadmap_001_enh.bed.tsv	ESC	ESC	E001	ESC	ES-I3_Cell_Line	PrimaryCulture	CL	Female
+roadmap_002_enh.bed.tsv	ESC	ESC	E002	ESC	ES-WA7_Cell_Line	PrimaryCulture	CL	Female
+roadmap_003_enh.bed.tsv	ESC	ESC	E003	ESC	H1_Cell_Line	PrimaryCulture	CL	Male
+roadmap_008_enh.bed.tsv	ESC	ESC	E008	ESC	H9_Cell_Line	PrimaryCulture	CL	Female
+roadmap_014_enh.bed.tsv	ESC	ESC	E014	ESC	HUES48_Cell_Line	PrimaryCulture	CL	Female
+roadmap_015_enh.bed.tsv	ESC	ESC	E015	ESC	HUES6_Cell_Line	PrimaryCulture	CL	Female
+roadmap_016_enh.bed.tsv	ESC	ESC	E016	ESC	HUES64_Cell_Line	PrimaryCulture	CL	Male
+roadmap_024_enh.bed.tsv	ESC	ESC	E024	ESC	4star	PrimaryCulture	CL	Female
+roadmap_004_enh.bed.tsv	ESC_DERIVED	ESC_DERIVED	E004	ES-deriv	H1_BMP4_Derived_Mesendoderm_Cultured_Cells	ESCDerived	CL	Male
+roadmap_005_enh.bed.tsv	ESC_DERIVED	ESC_DERIVED	E005	ES-deriv	H1_BMP4_Derived_Trophoblast_Cultured_Cells	ESCDerived	CL	Male
+roadmap_006_enh.bed.tsv	ESC_DERIVED	ESC_DERIVED	E006	ES-deriv	H1_Derived_Mesenchymal_Stem_Cells	ESCDerived	CL	Male
+roadmap_007_enh.bed.tsv	ESC_DERIVED	ESC_DERIVED	E007	ES-deriv	H1_Derived_Neuronal_Progenitor_Cultured_Cells	ESCDerived	CL	Male
+roadmap_009_enh.bed.tsv	ESC_DERIVED	ESC_DERIVED	E009	ES-deriv	H9_Derived_Neuronal_Progenitor_Cultured_Cells	ESCDerived	CL	Female
+roadmap_010_enh.bed.tsv	ESC_DERIVED	ESC_DERIVED	E010	ES-deriv	H9_Derived_Neuron_Cultured_Cells	ESCDerived	CL	Female
+roadmap_011_enh.bed.tsv	ESC_DERIVED	ESC_DERIVED	E011	ES-deriv	hESC_Derived_CD184+_Endoderm_Cultured_Cells	ESCDerived	CL	Male
+roadmap_012_enh.bed.tsv	ESC_DERIVED	ESC_DERIVED	E012	ES-deriv	hESC_Derived_CD56+_Ectoderm_Cultured_Cells	ESCDerived	CL	Male
+roadmap_013_enh.bed.tsv	ESC_DERIVED	ESC_DERIVED	E013	ES-deriv	hESC_Derived_CD56+_Mesoderm_Cultured_Cells	ESCDerived	CL	Male
+roadmap_063_enh.bed.tsv	FAT	FAT	E063	Adipose	Adipose_Nuclei	PrimaryTissue	"49Y, 59Y, 41Y, 25Y, 81Y"	Female
+roadmap_023_enh.bed.tsv	FAT	FAT	E023	Mesench	Mesenchymal_Stem_Cell_Derived_Adipocyte_Cultured_Cells	PrimaryCulture	CL	Female
+roadmap_025_enh.bed.tsv	FAT	FAT	E025	Mesench	Adipose_Derived_Mesenchymal_Stem_Cell_Cultured_Cells	PrimaryCulture	"31Y, 59Y, 41Y"	Female
+roadmap_075_enh.bed.tsv	GI_COLON	GI_COLON	E075	Digestive	Colonic_Mucosa	PrimaryTissue	73Y	Female
+roadmap_106_enh.bed.tsv	GI_COLON	GI_COLON	E106	Digestive	Sigmoid_Colon	PrimaryTissue	"3Y, 34Y"	Male
+roadmap_076_enh.bed.tsv	GI_COLON	GI_COLON	E076	Sm. Muscle	Colon_Smooth_Muscle	PrimaryTissue	"56Y, 77Y"	Female
+roadmap_077_enh.bed.tsv	GI_DUODENUM	GI_DUODENUM	E077	Digestive	Duodenum_Mucosa	PrimaryTissue	76Y	Male
+roadmap_078_enh.bed.tsv	GI_DUODENUM	GI_DUODENUM	E078	Sm. Muscle	Duodenum_Smooth_Muscle	PrimaryTissue	"59Y, 73Y"	Male
+roadmap_079_enh.bed.tsv	GI_ESOPHAGUS	GI_ESOPHAGUS	E079	Digestive	Esophagus	PrimaryTissue	34Y	Male
+roadmap_084_enh.bed.tsv	GI_INTESTINE	GI_INTESTINE	E084	Digestive	Fetal_Intestine_Large	PrimaryTissue	15GW	Male
+roadmap_085_enh.bed.tsv	GI_INTESTINE	GI_INTESTINE	E085	Digestive	Fetal_Intestine_Small	PrimaryTissue	15GW	Male
+roadmap_109_enh.bed.tsv	GI_INTESTINE	GI_INTESTINE	E109	Digestive	Small_Intestine	PrimaryTissue	"3Y, 34Y"	Male
+roadmap_101_enh.bed.tsv	GI_RECTUM	GI_RECTUM	E101	Digestive	Rectal_Mucosa.Donor_29	PrimaryTissue	50Y	Female
+roadmap_102_enh.bed.tsv	GI_RECTUM	GI_RECTUM	E102	Digestive	Rectal_Mucosa.Donor_31	PrimaryTissue	61Y	Female
+roadmap_103_enh.bed.tsv	GI_RECTUM	GI_RECTUM	E103	Sm. Muscle	Rectal_Smooth_Muscle	PrimaryTissue	50Y	Female
+roadmap_092_enh.bed.tsv	GI_STOMACH	GI_STOMACH	E092	Digestive	Fetal_Stomach	PrimaryTissue		Female
+roadmap_094_enh.bed.tsv	GI_STOMACH	GI_STOMACH	E094	Digestive	Gastric	PrimaryTissue	34Y	Male
+roadmap_110_enh.bed.tsv	GI_STOMACH	GI_STOMACH	E110	Digestive	Stomach_Mucosa	PrimaryTissue	59Y	Male
+roadmap_111_enh.bed.tsv	GI_STOMACH	GI_STOMACH	E111	Sm. Muscle	Stomach_Smooth_Muscle	PrimaryTissue	84Y	Female
+roadmap_083_enh.bed.tsv	HEART	HEART	E083	Heart	Fetal_Heart	PrimaryTissue	"14GW, 15GW, 13GW"	Mixed
+roadmap_095_enh.bed.tsv	HEART	HEART	E095	Heart	Left_Ventricle	PrimaryTissue	"3Y, 34Y"	Male
+roadmap_104_enh.bed.tsv	HEART	HEART	E104	Heart	Right_Atrium	PrimaryTissue	34Y	Male
+roadmap_105_enh.bed.tsv	HEART	HEART	E105	Heart	Right_Ventricle	PrimaryTissue	"3Y, 34Y"	Male
+roadmap_018_enh.bed.tsv	IPSC	IPSC	E018	iPSC	iPS-15b_Cell_Line	PrimaryCulture	CL	Female
+roadmap_019_enh.bed.tsv	IPSC	IPSC	E019	iPSC	iPS-18_Cell_Line	PrimaryCulture	CL	Female
+roadmap_020_enh.bed.tsv	IPSC	IPSC	E020	iPSC	iPS-20b_Cell_Line	PrimaryCulture	CL	Male
+roadmap_021_enh.bed.tsv	IPSC	IPSC	E021	iPSC	iPS_DF_6.9_Cell_Line	PrimaryCulture	CL	Male
+roadmap_022_enh.bed.tsv	IPSC	IPSC	E022	iPSC	iPS_DF_19.11_Cell_Line	PrimaryCulture	CL	Male
+roadmap_086_enh.bed.tsv	KIDNEY	KIDNEY	E086	Other	Fetal_Kidney	PrimaryTissue	17GW	Unknown
+roadmap_066_enh.bed.tsv	LIVER	LIVER	E066	Other	Adult_Liver	PrimaryTissue	Unknown	Mixed
+roadmap_118_enh.bed.tsv	LIVER_encode	LIVER	E118	ENCODE2012	HepG2_Hepatocellular_Carcinoma	CellLine		Male
+roadmap_017_enh.bed.tsv	LUNG	LUNG	E017	IMR90	IMR90_Cell_Line	CellLine	CL	Female
+roadmap_088_enh.bed.tsv	LUNG	LUNG	E088	Other	Fetal_Lung	PrimaryTissue		Female/Unknown
+roadmap_096_enh.bed.tsv	LUNG	LUNG	E096	Other	Lung	PrimaryTissue	30Y	Female
+roadmap_114_enh.bed.tsv	LUNG_encode	LUNG	E114	ENCODE2012	A549_EtOH_0.02pct_Lung_Carcinoma	CellLine		Male
+roadmap_128_enh.bed.tsv	LUNG_encode	LUNG	E128	ENCODE2012	NHLF_Lung_Fibroblasts	PrimaryCulture		Unknown
+roadmap_089_enh.bed.tsv	MUSCLE	MUSCLE	E089	Muscle	Fetal_Muscle_Trunk	PrimaryTissue	16GW	Female
+roadmap_100_enh.bed.tsv	MUSCLE	MUSCLE	E100	Muscle	Psoas_Muscle	PrimaryTissue	"3Y, 34Y"	Male
+roadmap_107_enh.bed.tsv	MUSCLE	MUSCLE	E107	Muscle	Skeletal_Muscle_Male	PrimaryTissue	54Y	Male
+roadmap_108_enh.bed.tsv	MUSCLE	MUSCLE	E108	Muscle	Skeletal_Muscle_Female	PrimaryTissue	72Y	Female
+roadmap_052_enh.bed.tsv	MUSCLE	MUSCLE	E052	Myosat	Muscle_Satellite_Cultured_Cells	PrimaryCulture	Unknown	Unknown
+roadmap_120_enh.bed.tsv	MUSCLE_encode	MUSCLE	E120	ENCODE2012	HSMM_Skeletal_Muscle_Myoblasts	PrimaryCulture		Unknown
+roadmap_121_enh.bed.tsv	MUSCLE_encode	MUSCLE	E121	ENCODE2012	HSMMtube_Skeletal_Muscle_Myotubes_Derived_from_HSMM	PrimaryCulture		Unknown
+roadmap_090_enh.bed.tsv	MUSCLE_LEG	MUSCLE_LEG	E090	Muscle	Fetal_Muscle_Leg	PrimaryTissue	15GW	Female
+roadmap_097_enh.bed.tsv	OVARY	OVARY	E097	Other	Ovary	PrimaryTissue	30Y	Female
+roadmap_098_enh.bed.tsv	PANCREAS	PANCREAS	E098	Other	Pancreas	PrimaryTissue	34Y	Male
+roadmap_087_enh.bed.tsv	PANCREAS_Islets	PANCREAS	E087	Other	Pancreatic_Islets	PrimaryTissue	"Unknown, Unknown, 45Y"	Male
+roadmap_091_enh.bed.tsv	PLACENTA	PLACENTA	E091	Other	Fetal_Placenta	PrimaryTissue	16GW	Female
+roadmap_099_enh.bed.tsv	PLACENTA	PLACENTA	E099	Other	Placenta_Amnion	PrimaryTissue	16GW	Male
+roadmap_055_enh.bed.tsv	SKIN	SKIN	E055	Epithelial	Penis_Foreskin_Fibroblast_Primary_Cells_skin01	PrimaryCulture	0Y	Male
+roadmap_056_enh.bed.tsv	SKIN	SKIN	E056	Epithelial	Penis_Foreskin_Fibroblast_Primary_Cells_skin02	PrimaryCulture	0Y	Male
+roadmap_057_enh.bed.tsv	SKIN	SKIN	E057	Epithelial	Penis_Foreskin_Keratinocyte_Primary_Cells_skin02	PrimaryCulture	0Y	Male
+roadmap_058_enh.bed.tsv	SKIN	SKIN	E058	Epithelial	Penis_Foreskin_Keratinocyte_Primary_Cells_skin03	PrimaryCulture	0Y	Male
+roadmap_059_enh.bed.tsv	SKIN	SKIN	E059	Epithelial	Penis_Foreskin_Melanocyte_Primary_Cells_skin01	PrimaryCulture	0Y	Male
+roadmap_061_enh.bed.tsv	SKIN	SKIN	E061	Epithelial	Penis_Foreskin_Melanocyte_Primary_Cells_skin03	PrimaryCulture	0Y	Male
+roadmap_126_enh.bed.tsv	SKIN_encode	SKIN	E126	ENCODE2012	NHDF-Ad_Adult_Dermal_Fibroblasts	PrimaryCulture		Female
+roadmap_127_enh.bed.tsv	SKIN_encode	SKIN	E127	ENCODE2012	NHEK-Epidermal_Keratinocytes	PrimaryCulture		Unknown
+roadmap_113_enh.bed.tsv	SPLEEN	SPLEEN	E113	Other	Spleen	PrimaryTissue	34Y	Male
+roadmap_026_enh.bed.tsv	STROMAL_CONNECTIVE	STROMAL_CONNECTIVE	E026	Mesench	Bone_Marrow_Derived_Mesenchymal_Stem_Cell_Cultured_Cells	PrimaryCulture	"57Y, unknown, unkown, unkown"	Unknown
+roadmap_049_enh.bed.tsv	STROMAL_CONNECTIVE	STROMAL_CONNECTIVE	E049	Mesench	Chondrocytes_from_Bone_Marrow_Derived_Mesenchymal_Stem_Cell_Cultured_Cells	PrimaryCulture	Unknown	Unknown
+roadmap_093_enh.bed.tsv	THYMUS	THYMUS	E093	Thymus	Fetal_Thymus	PrimaryTissue	15GW	Female
+roadmap_112_enh.bed.tsv	THYMUS	THYMUS	E112	Thymus	Thymus	PrimaryTissue	3Y	Male
+roadmap_065_enh.bed.tsv	VASCULAR	VASCULAR	E065	Heart	Aorta	PrimaryTissue	34Y	Male
+roadmap_122_enh.bed.tsv	VASCULAR_encode	VASCULAR	E122	ENCODE2012	HUVEC_Umbilical_Vein_Endothelial_Cells	PrimaryCulture		Unknown

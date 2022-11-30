@@ -1,0 +1,66 @@
+sub_dir = [1] "FALSE"
+
+** Run function: db_venn.r/summ_ann... ready
+50 Files/folders input.
+  1 /data/5e-8_2/gtex_eqtl/snp_gtex_Adipose_Subcutaneous_8801.bed
+  2 /data/5e-8_2/gtex_eqtl/snp_gtex_Adipose_Visceral_Omentum_7139.bed
+  3 /data/5e-8_2/gtex_eqtl/snp_gtex_Adrenal_Gland_4639.bed
+  4 /data/5e-8_2/gtex_eqtl/snp_gtex_Artery_Aorta_7349.bed
+  5 /data/5e-8_2/gtex_eqtl/snp_gtex_Artery_Coronary_4599.bed
+  6 /data/5e-8_2/gtex_eqtl/snp_gtex_Artery_Tibial_8406.bed
+  7 /data/5e-8_2/gtex_eqtl/snp_gtex_Brain_Amygdala_3001.bed
+  8 /data/5e-8_2/gtex_eqtl/snp_gtex_Brain_Anterior_cingulate_cortex_BA24_3924.bed
+  9 /data/5e-8_2/gtex_eqtl/snp_gtex_Brain_Caudate_basal_ganglia_4472.bed
+  10 /data/5e-8_2/gtex_eqtl/snp_gtex_Brain_Cerebellar_Hemisphere_5942.bed
+  11 /data/5e-8_2/gtex_eqtl/snp_gtex_Brain_Cerebellum_6483.bed
+  12 /data/5e-8_2/gtex_eqtl/snp_gtex_Brain_Cortex_5614.bed
+  13 /data/5e-8_2/gtex_eqtl/snp_gtex_Brain_Frontal_Cortex_BA9_4372.bed
+  14 /data/5e-8_2/gtex_eqtl/snp_gtex_Brain_Hippocampus_3700.bed
+  15 /data/5e-8_2/gtex_eqtl/snp_gtex_Brain_Hypothalamus_4051.bed
+  16 /data/5e-8_2/gtex_eqtl/snp_gtex_Brain_Nucleus_accumbens_basal_ganglia_4599.bed
+  17 /data/5e-8_2/gtex_eqtl/snp_gtex_Brain_Putamen_basal_ganglia_4190.bed
+  18 /data/5e-8_2/gtex_eqtl/snp_gtex_Brain_Spinal_cord_cervical_c-1_3568.bed
+  19 /data/5e-8_2/gtex_eqtl/snp_gtex_Brain_Substantia_nigra_2979.bed
+  20 /data/5e-8_2/gtex_eqtl/snp_gtex_Breast_Mammary_Tissue_6821.bed
+  21 /data/5e-8_2/gtex_eqtl/snp_gtex_Cells_Cultured_fibroblasts_9185.bed
+  22 /data/5e-8_2/gtex_eqtl/snp_gtex_Cells_EBV-transformed_lymphocytes_3041.bed
+  23 /data/5e-8_2/gtex_eqtl/snp_gtex_Colon_Sigmoid_6888.bed
+  24 /data/5e-8_2/gtex_eqtl/snp_gtex_Colon_Transverse_6665.bed
+  25 /data/5e-8_2/gtex_eqtl/snp_gtex_Esophagus_Gastroesophageal_Junction_6364.bed
+  26 /data/5e-8_2/gtex_eqtl/snp_gtex_Esophagus_Mucosa_7129.bed
+  27 /data/5e-8_2/gtex_eqtl/snp_gtex_Esophagus_Muscularis_8720.bed
+  28 /data/5e-8_2/gtex_eqtl/snp_gtex_Heart_Atrial_Appendage_6151.bed
+  29 /data/5e-8_2/gtex_eqtl/snp_gtex_Heart_Left_Ventricle_6017.bed
+  30 /data/5e-8_2/gtex_eqtl/snp_gtex_Kidney_Cortex_2442.bed
+  31 /data/5e-8_2/gtex_eqtl/snp_gtex_Liver_3752.bed
+  32 /data/5e-8_2/gtex_eqtl/snp_gtex_Lung_7936.bed
+  33 /data/5e-8_2/gtex_eqtl/snp_gtex_Minor_Salivary_Gland_3169.bed
+  34 /data/5e-8_2/gtex_eqtl/snp_gtex_Muscle_Skeletal_6852.bed
+  35 /data/5e-8_2/gtex_eqtl/snp_gtex_Nerve_Tibial_8748.bed
+  36 /data/5e-8_2/gtex_eqtl/snp_gtex_Ovary_3563.bed
+  37 /data/5e-8_2/gtex_eqtl/snp_gtex_Pancreas_6334.bed
+  38 /data/5e-8_2/gtex_eqtl/snp_gtex_Pituitary_5119.bed
+  39 /data/5e-8_2/gtex_eqtl/snp_gtex_Prostate_4819.bed
+  40 /data/5e-8_2/gtex_eqtl/snp_gtex_Skin_Not_Sun_Exposed_Suprapubic_8315.bed
+  41 /data/5e-8_2/gtex_eqtl/snp_gtex_Skin_Sun_Exposed_Lower_leg_8395.bed
+  42 /data/5e-8_2/gtex_eqtl/snp_gtex_Small_Intestine_Terminal_Ileum_3666.bed
+  43 /data/5e-8_2/gtex_eqtl/snp_gtex_Spleen_6131.bed
+  44 /data/5e-8_2/gtex_eqtl/snp_gtex_Stomach_5877.bed
+  45 /data/5e-8_2/gtex_eqtl/snp_gtex_Testis_7666.bed
+  46 /data/5e-8_2/gtex_eqtl/snp_gtex_Thyroid_8870.bed
+  47 /data/5e-8_2/gtex_eqtl/snp_gtex_Uterus_3304.bed
+  48 /data/5e-8_2/gtex_eqtl/snp_gtex_Vagina_3460.bed
+  49 /data/5e-8_2/gtex_eqtl/snp_gtex_Whole_Blood_7313.bed
+  50 /data/5e-8_2/gtex_eqtl/snp_union_gtex_eqtl_11799.bed
+Total 50 file(s) is/are input.
+
+** Run function: db_venn.r/venn_bed...
+  Read 50 files
+
+** Back to function: db_venn.r/summ...
+  Returned union list dim = [1] 11799    54
+  Write a BED file: /data/5e-8_2/gtex_eqtl/snp_union_gtex_eqtl_11799.bed
+  [PASS] Nearest gene summary.
+
+
+Job done: 2021-08-06 19:14:07 for 1.7 sec

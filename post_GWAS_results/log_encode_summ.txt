@@ -1,0 +1,6 @@
+
+* Read file: data/5e-8_2/genome_dist/encode_tfbs.tsv = 32543 -> Dist=0; [1] 17941    11
+* Summary: 3001 [..........] = [1] 3001    5
+* Write file: data/5e-8_2/summary_encode.tsv
+
+Job done: 2021-08-06 21:16:16 for 2.7 sec

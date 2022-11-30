@@ -1,0 +1,13 @@
+
+** Run function: db_filter.r/gtex_overlap...
+ready
+Input GWAS SNPs N = 17510
+SNP query to db_gwas.db = [1] 1752277       7
+  eQTLs N = [1] 11799
+  Associated eGenes = [1] 515
+
+Write file: /data/5e-8_2/gtex_signif_11799.tsv
+Generating BED files at "/data/5e-8_2/gtex_eqtl" for 49 tissues.. done
+
+Job done: 2021-08-06 19:14:02 for 1.4 min
+
